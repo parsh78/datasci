@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# custom
+denodo/
+neural_networks/tensorflow-for-poets-2/
